@@ -1,0 +1,70 @@
+body{
+  background-color:#f1e1d4 ;  
+  font-family: sans-serif;
+}
+
+.flex{
+  
+    display: flex;
+   width: 70%;
+    margin: 50px auto;
+    line-height: 10px;
+    padding: 70px;
+   
+
+}
+
+img{
+    width: 600px;
+    height: 500;
+}
+.flex p{
+    font-size: 34px;
+}
+.two{
+    font-weight: bold;
+    text-align: right;
+    margin-right: 90px;
+}
+
+.three{
+    padding-right: 80px;
+}
+
+.four{
+    font-weight: bold;
+    text-align: right;
+    margin-right:15px ;
+}
+
+.five{
+    margin-left: 20px;
+}
+
+.six{
+    font-size: 15px;
+}
+
+.six span{
+    font-weight: bold;
+}
+
+a{
+    background-color: #c06ee4  ;
+    text-decoration: none;
+    margin-top: 30px;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 15px;
+   margin-left: 50px;
+
+
+}
+
+a span{
+    font-weight: bold;
+}
+
+.right{
+    margin-left: 30px ;
+}
